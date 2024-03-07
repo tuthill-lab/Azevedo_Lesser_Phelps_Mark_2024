@@ -1,5 +1,5 @@
 # Azevedo_Lesser_Phelps_Mark_2023
-CSVs and scripts from [Azevedo, Lesser, Phelps, Mark et. al., 2023](url), as well as a space to host json states of neuroglancer views linked in the paper. For more information, see the FANC wiki page for [Azevedo, Lesser, Phelps, Mark, et al.](https://github.com/htem/FANC_auto_recon/wiki/Azevedo,-Lesser,-Mark,-Phelps,-et-al.-2022-bioRxiv)
+CSVs and scripts from [Azevedo, Lesser, Phelps, Mark et. al., 2023](https://www.biorxiv.org/content/10.1101/2022.12.15.520299v1.full), as well as a space to host json states of neuroglancer views linked in the paper. For more information, see the FANC wiki page for [Azevedo, Lesser, Phelps, Mark, et al.](https://github.com/htem/FANC_auto_recon/wiki/Azevedo,-Lesser,-Mark,-Phelps,-et-al.-2022-bioRxiv)
 
 ## Synapse comparisons for Figure 2 and Extended Data Figure 3
 main.ipynb provides a script to reproduce the comparisons between manually annotated synapses and synapse locations that are automatically predicted. This script imports other modules located in the folder, but also depends on [caveclient](https://caveclient.readthedocs.io/en/latest/index.html), [cloudvolume](https://github.com/seung-lab/cloud-volume) and [fanc](https://github.com/htem/FANC_auto_recon). Please see those repositories for information on downloading and installing. 
